@@ -6,10 +6,10 @@
 
 Folder này chỉ giữ các file cần thiết:
 
-| File | Dùng để làm gì |
-|---|---|
-| `01-worksheet.md` | File hướng dẫn chính cho toàn bộ lab 4 tiếng. Bộ gợi ý, hướng dẫn công cụ, prompt và checklist tự kiểm đã được tích hợp trực tiếp vào từng phase. |
-| `02-deliverable-example.md` | Ví dụ bài nộp hoàn chỉnh để học viên nhìn được output cuối cùng trông như thế nào. |
+| File                        | Dùng để làm gì                                                                                                                                    |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `01-worksheet.md`           | File hướng dẫn chính cho toàn bộ lab 4 tiếng. Bộ gợi ý, hướng dẫn công cụ, prompt và checklist tự kiểm đã được tích hợp trực tiếp vào từng phase. |
+| `02-deliverable-example.md` | Ví dụ bài nộp hoàn chỉnh để học viên nhìn được output cuối cùng trông như thế nào.                                                                |
 
 ## Cấu trúc repo nộp bài
 
@@ -51,39 +51,39 @@ Ngoài 100 điểm chính, học viên có thể có **tối đa +10 điểm bon
 
 ### A. Điểm nhóm — 60 điểm
 
-| Thành phần | Điểm | Cần thể hiện rõ |
-|---|---:|---|
-| Workflow trước/sau | 15 | Vẽ được workflow hiện tại và workflow sau tối ưu. Nhìn ra bước nghẽn, ai làm bước đó, mất bao lâu, bàn giao qua ai, AI hoặc tự động hóa nằm ở bước nào. |
-| Problem Statement + metric + boundary | 20 | Problem Statement có người gặp vấn đề, workflow, điểm nghẽn, tác động, success metric và boundary. Metric có hiện trạng ban đầu, mục tiêu sau cải thiện và cách đo, không chỉ viết "nhanh hơn" hoặc "tốt hơn". Boundary nói rõ phạm vi làm và không làm. |
-| Độ phù hợp với AI + phương án thay thế | 15 | So sánh được No AI / Rule / Workflow / Agent. Giải thích vì sao chọn mức đó, vì sao không chọn mức còn lại, AI được phép làm gì, phần nào cần người kiểm tra. |
-| Chất lượng quyết định | 10 | Quyết định Go / Not Yet / No-Go có lý do dựa trên bằng chứng, research hoặc giả định được ghi rõ. Không quyết định chỉ vì "muốn làm AI". |
+| Thành phần                             | Điểm | Cần thể hiện rõ                                                                                                                                                                                                                                          |
+| -------------------------------------- | ---: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Workflow trước/sau                     |   15 | Vẽ được workflow hiện tại và workflow sau tối ưu. Nhìn ra bước nghẽn, ai làm bước đó, mất bao lâu, bàn giao qua ai, AI hoặc tự động hóa nằm ở bước nào.                                                                                                  |
+| Problem Statement + metric + boundary  |   20 | Problem Statement có người gặp vấn đề, workflow, điểm nghẽn, tác động, success metric và boundary. Metric có hiện trạng ban đầu, mục tiêu sau cải thiện và cách đo, không chỉ viết "nhanh hơn" hoặc "tốt hơn". Boundary nói rõ phạm vi làm và không làm. |
+| Độ phù hợp với AI + phương án thay thế |   15 | So sánh được No AI / Rule / Workflow / Agent. Giải thích vì sao chọn mức đó, vì sao không chọn mức còn lại, AI được phép làm gì, phần nào cần người kiểm tra.                                                                                            |
+| Chất lượng quyết định                  |   10 | Quyết định Go / Not Yet / No-Go có lý do dựa trên bằng chứng, research hoặc giả định được ghi rõ. Không quyết định chỉ vì "muốn làm AI".                                                                                                                 |
 
 ### B. Điểm cá nhân — 40 điểm
 
-| Thành phần | Điểm | Cần thể hiện rõ |
-|---|---:|---|
-| Scan problem + top 3 Problem Cards | 12 | Scan ít nhất 5 problems từ trải nghiệm thật, dùng nhiều lăng kính, có người gặp vấn đề và dấu hiệu thật. Top 3 Problem Cards đủ rõ để pitch với nhóm. |
-| Tham gia pitch + challenge | 12 | Pitch vấn đề của mình ngắn gọn, rõ người gặp vấn đề / workflow / điểm nghẽn. Khi nghe bạn khác, có đặt câu hỏi hoặc challenge đúng trọng tâm để giúp nhóm chọn bài tốt hơn. |
-| Reflection cá nhân | 10 | Ghi trung thực AI đã hỗ trợ gì, sai/hời hợt ở đâu, mình đã sửa gì bằng nhận định của bản thân. Reflection có nói rõ vai trò, đóng góp của mình trong nhóm, điều học được và nếu làm lại sẽ đổi gì. |
-| Kiểm tra hiểu bài cá nhân | 6 | Tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp với AI. Nếu được hỏi nhanh, trả lời được vì sao nhóm chọn Rule / Workflow / Agent và Go / Not Yet / No-Go. |
+| Thành phần                         | Điểm | Cần thể hiện rõ                                                                                                                                                                                    |
+| ---------------------------------- | ---: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Scan problem + top 3 Problem Cards |   12 | Scan ít nhất 5 problems từ trải nghiệm thật, dùng nhiều lăng kính, có người gặp vấn đề và dấu hiệu thật. Top 3 Problem Cards đủ rõ để pitch với nhóm.                                              |
+| Tham gia pitch + challenge         |   12 | Pitch vấn đề của mình ngắn gọn, rõ người gặp vấn đề / workflow / điểm nghẽn. Khi nghe bạn khác, có đặt câu hỏi hoặc challenge đúng trọng tâm để giúp nhóm chọn bài tốt hơn.                        |
+| Reflection cá nhân                 |   10 | Ghi trung thực AI đã hỗ trợ gì, sai/hời hợt ở đâu, mình đã sửa gì bằng nhận định của bản thân. Reflection có nói rõ vai trò, đóng góp của mình trong nhóm, điều học được và nếu làm lại sẽ đổi gì. |
+| Kiểm tra hiểu bài cá nhân          |    6 | Tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp với AI. Nếu được hỏi nhanh, trả lời được vì sao nhóm chọn Rule / Workflow / Agent và Go / Not Yet / No-Go.             |
 
 ### C. Bonus — tối đa +10 điểm
 
-| Phần bonus | Tối đa | Khi nào được cộng |
-|---|---:|---|
-| Scan rộng hơn yêu cầu | +3 | Có 8-10+ problems cụ thể, đa dạng lăng kính, không phải list dài nhưng chung chung. |
-| Tương tác tích cực | +3 | Trả lời câu hỏi thảo luận, gửi bài tập nhanh lên Discord, đặt câu hỏi tốt, hoặc challenge giúp bạn/nhóm làm rõ bài toán hơn. |
-| Kiểm chứng / research vượt yêu cầu | +4 | Có phỏng vấn nhanh, survey nhỏ, log thật, nguồn đáng tin cậy, hoặc kiểm chứng giúp nhóm sửa lại problem, metric hoặc quyết định cuối. |
+| Phần bonus                         | Tối đa | Khi nào được cộng                                                                                                                     |
+| ---------------------------------- | -----: | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Scan rộng hơn yêu cầu              |     +3 | Có 8-10+ problems cụ thể, đa dạng lăng kính, không phải list dài nhưng chung chung.                                                   |
+| Tương tác tích cực                 |     +3 | Trả lời câu hỏi thảo luận, gửi bài tập nhanh lên Discord, đặt câu hỏi tốt, hoặc challenge giúp bạn/nhóm làm rõ bài toán hơn.          |
+| Kiểm chứng / research vượt yêu cầu |     +4 | Có phỏng vấn nhanh, survey nhỏ, log thật, nguồn đáng tin cậy, hoặc kiểm chứng giúp nhóm sửa lại problem, metric hoặc quyết định cuối. |
 
 ### D. Mức xếp loại
 
-| Mức | Điểm | Ý nghĩa |
-|---|---:|---|
-| Không pass | < 50 | Bài còn solution-first, chưa nắm được problem, workflow, metric hoặc độ phù hợp với AI. |
-| Vừa đủ pass | 50-64 | Có đủ phần cơ bản nhưng nhiều chỗ còn mơ hồ, metric hoặc boundary chưa chắc. |
-| Hiểu khá | 65-79 | Làm được đa số yêu cầu, logic tương đối rõ, còn thiếu bằng chứng hoặc so sánh phương án thay thế chưa sâu. |
-| Hiểu đầy đủ | 80-89 | Workflow, Problem Statement, độ phù hợp với AI và quyết định cuối nhất quán; metric và boundary rõ. |
-| Rất tốt | 90-100 | Bài có bằng chứng tốt, lập luận chặt, biết giới hạn của AI, reflection cá nhân sâu và trung thực. |
+| Mức         |   Điểm | Ý nghĩa                                                                                                    |
+| ----------- | -----: | ---------------------------------------------------------------------------------------------------------- |
+| Không pass  |   < 50 | Bài còn solution-first, chưa nắm được problem, workflow, metric hoặc độ phù hợp với AI.                    |
+| Vừa đủ pass |  50-64 | Có đủ phần cơ bản nhưng nhiều chỗ còn mơ hồ, metric hoặc boundary chưa chắc.                               |
+| Hiểu khá    |  65-79 | Làm được đa số yêu cầu, logic tương đối rõ, còn thiếu bằng chứng hoặc so sánh phương án thay thế chưa sâu. |
+| Hiểu đầy đủ |  80-89 | Workflow, Problem Statement, độ phù hợp với AI và quyết định cuối nhất quán; metric và boundary rõ.        |
+| Rất tốt     | 90-100 | Bài có bằng chứng tốt, lập luận chặt, biết giới hạn của AI, reflection cá nhân sâu và trung thực.          |
 
 ## Flow lab 4 tiếng
 
@@ -109,4 +109,4 @@ Phase 7  Individual Reflection            15'
 
 ---
 
-*Day 02 Lab v2 — Batch 02*
+_Day 02 Lab v2 — Batch 02_
